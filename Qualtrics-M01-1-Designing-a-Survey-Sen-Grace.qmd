@@ -1,0 +1,55 @@
+---
+title: "Qualtrics M01-1: Designing a Survey"
+subtitle: "(Rough draft & Sharing Qualtrics)"
+author: "Grace Sen"
+date: today
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-title: "Evidence"
+    embed-resources: true
+    number-sections: false
+---
+
+# Evidence of Completion
+
+## Survey Information
+
+**Course:** IBM 6500 – Customer Insight Methods & Survey Research\
+**Qualtrics project:** Sen, Grace - Survey of Educational Needs of MR Professionals
+
+This document provides evidence that the Qualtrics survey was created, organized, shared, and reviewed according to the assignment instructions.
+
+## Survey Sharing and Permissions
+
+The screenshot below should confirm that the survey was shared with **Dr. Jae Jung (`jmjung`)** and show the permissions granted to the collaborator.
+
+![](images/collaborate.png)
+
+## Beginning of the Survey
+
+The screenshot below should show the opening portion of the survey, including the survey title, introductory or consent information, and the first questions.
+
+![](images/beginning-of-survey.png)
+
+## Middle of the Survey
+
+The screenshot below should show questions from the middle of the survey. It should provide evidence of the survey’s organization and question design, including any relevant display logic or response options.
+
+![](images/middle-of-survey.png)
+
+## Ending of the Survey
+
+The screenshot below should show the final portion of the survey, including the last questions and the survey-completion or submission area.
+
+![](images/end-of-survey.png)
+
+## Completion Statement
+
+I created the survey in Qualtrics, organized it in the appropriate course folder, applied the required survey features, shared it with the instructor, and reviewed the survey in Preview mode.
+
+# Appendix
+
+GitHub Repo: <https://github.com/gracesen/IBM-6500-Qualtrics-M01>\
+GitHub Pages: <https://gracesen.github.io/IBM-6500-Qualtrics-M01/>
